@@ -1,30 +1,5 @@
 import itertools
-print('''
 
-                                                   
-  ,,                 ,,    ,,                      
-`7MM               `7MM  `7MM                      
-  MM                 MM    MM                      
-  MMpMMMb.  .gP"Ya   MM    MM  ,pW"Wq.             
-  MM    MM ,M'   Yb  MM    MM 6W'   `Wb            
-  MM    MM 8M""""""  MM    MM 8M     M8            
-  MM    MM YM.    ,  MM    MM YA.   ,A9            
-.JMML  JMML.`Mbmmd'.JMML..JMML.`Ybmd9'             
-                                                   
-                                                   
-                                                   
-  ,,                                           ,,  
-`7MM                                         `7MM  
-  MM            __,                            MM  
-  MM  `7Mb,od8 `7MM  pd""b.  `7MMpMMMb.   ,M""bMM  
-  MM    MM' "'   MM (O)  `8b   MM    MM ,AP    MM  
-  MM    MM       MM      ,89   MM    MM 8MI    MM  
-  MM    MM       MM    ""Yb.   MM    MM `Mb    MM  
-.JMML..JMML.   .JMML.     88 .JMML  JMML.`Wbmd"MML.
-                    (O)  .M'                       
-                     bmmmd'                        
-
-''')
 print('Witaj w generatorze hasel')
 skala = input('Podaj dlugosc generowanych slow np. 5-10 -> ')
 start = int(skala.split('-')[0])
